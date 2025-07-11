@@ -5,3 +5,4 @@ outputs_bak/
 models/
 __pycache__/
 raw_data/
+sd-scripts/

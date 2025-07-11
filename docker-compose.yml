@@ -5,7 +5,7 @@ services:
       context: .
       # change the dockerfile to Dockerfile.cuda12.4 if you are running CUDA 12.4 drivers otherwise leave as is
       dockerfile: Dockerfile
-    image: fluxgym
+    image: thelocallab/fluxgym-flux-lora-training:latest
     container_name: fluxgym
     ports:
       - 7860:7860

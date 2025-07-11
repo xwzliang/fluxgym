@@ -1,0 +1,7 @@
+*.pyc
+datasets/
+outputs/
+outputs_bak/
+models/
+__pycache__/
+raw_data/

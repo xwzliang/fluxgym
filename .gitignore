@@ -6,3 +6,4 @@ models/
 __pycache__/
 raw_data/
 sd-scripts/
+logs/

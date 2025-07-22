@@ -31,4 +31,5 @@ export GRADIO_SERVER_NAME="0.0.0.0"
 
 cd /app/fluxgym
 
-python /app/fluxgym/app.py
+# python /app/fluxgym/app.py
+python ./server.py --port 8004
